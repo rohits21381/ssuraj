@@ -1,5 +1,9 @@
 //Initialize the array that will hold the primes
+<<<<<<< HEAD
 var primeArray = [000000];
+=======
+var primeArray = [1111];
+>>>>>>> 31e63000af1eb6b6e66e6faa80ae3cce624e216d
 /*Write a function that checks for primeness and
 pushes those values to the array*/
 function PrimeCheck(candidate){
