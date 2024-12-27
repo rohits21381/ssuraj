@@ -1,5 +1,5 @@
 //Initialize the array that will hold the primes
-var primeArray = [];
+var primeArray = [3333];
 /*Write a function that checks for primeness and
 pushes those values to the array*/
 function PrimeCheck(candidate){
